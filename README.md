@@ -5,5 +5,4 @@ Innovation website. It may or may not have features that are used on the actual 
 worked on by 2 students with further information to be found in the team members readme. The code is admittedly extremely
 messy and probably unoptomized however as this was an introduction to Web Programming class it is the first website that
 both of us had created
-==========
-coen161
+
